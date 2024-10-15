@@ -1,0 +1,7 @@
+Integrantes:
+- Juan Manuel Flores
+- Thomas Buitrago Uribe
+
+Lenguaje: Java
+
+SDK: Oracle 22
